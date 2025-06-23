@@ -1,7 +1,3 @@
-Perfect! Here's your **Project 3: Smart To-Do List Web App** write-up in the **same format and tone** as your Secure Password Generator post:
-
----
-
 ## 📝 Staxtech-Project3--Smart-ToDo-List
 
 ✅ **Smart To-Do List – HTML, CSS, JavaScript**
